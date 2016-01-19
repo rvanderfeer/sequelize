@@ -1,4 +1,10 @@
-# Sequelize
+# Sequelize + Spatialite
+
+## Spatialite as dialect
+
+Implements a dialect for Spatialite so we can use Geometry types in Sqlite.
+
+@see: [Support for geometry](https://github.com/sequelize/sequelize/issues/2839)
 
 [![Build Status](https://travis-ci.org/sequelize/sequelize.svg?branch=master)](https://travis-ci.org/sequelize/sequelize) [![Dependency Status](https://david-dm.org/sequelize/sequelize.svg)](https://david-dm.org/sequelize/sequelize) [![Test Coverage](https://codeclimate.com/github/sequelize/sequelize/badges/coverage.svg)](https://codeclimate.com/github/sequelize/sequelize)
 [![Bountysource](https://www.bountysource.com/badge/team?team_id=955&style=bounties_received)](https://www.bountysource.com/teams/sequelize/issues?utm_source=Sequelize&utm_medium=shield&utm_campaign=bounties_received)

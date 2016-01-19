@@ -2,6 +2,7 @@ test*.js
 *.swp
 .idea
 .DS_STORE
+.tags
 node_modules
 npm-debug.log
 *~
